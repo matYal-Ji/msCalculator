@@ -1,0 +1,205 @@
+﻿[
+  {
+    "IndexX": 0,
+    "IndexY": 0,
+    "Panel": "Memory",
+    "ButtonName": "MC",
+    "Operator": null
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 0,
+    "Panel": "Memory",
+    "ButtonName": "MR",
+    "Operator": null
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 0,
+    "Panel": "Memory",
+    "ButtonName": "M+",
+    "Operator": null
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 0,
+    "Panel": "Memory",
+    "ButtonName": "M-",
+    "Operator": null
+  },
+  {
+    "IndexX": 4,
+    "IndexY": 0,
+    "Panel": "Memory",
+    "ButtonName": "MS",
+    "Operator": null
+  },
+  {
+    "IndexX": 0,
+    "IndexY": 0,
+    "Panel": "StandardCalculator",
+    "ButtonName": "mod",
+    "Operator": "mod"
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 0,
+    "Panel": "StandardCalculator",
+    "ButtonName": "CE",
+    "Operator": null
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 0,
+    "Panel": "StandardCalculator",
+    "ButtonName": "C",
+    "Operator": null
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 0,
+    "Panel": "StandardCalculator",
+    "ButtonName": "<-",
+    "Operator": null
+  },
+  {
+    "IndexX": 0,
+    "IndexY": 1,
+    "Panel": "StandardCalculator",
+    "ButtonName": "1/x",
+    "Operator": "inv"
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 1,
+    "Panel": "StandardCalculator",
+    "ButtonName": "x^2",
+    "Operator": "sq"
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 1,
+    "Panel": "StandardCalculator",
+    "ButtonName": "x^1/2",
+    "Operator": "root"
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 1,
+    "Panel": "StandardCalculator",
+    "ButtonName": "/",
+    "Operator": "/"
+  },
+  {
+    "IndexX": 0,
+    "IndexY": 2,
+    "Panel": "StandardCalculator",
+    "ButtonName": "7",
+    "Operator": "7"
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 2,
+    "Panel": "StandardCalculator",
+    "ButtonName": "8",
+    "Operator": "8"
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 2,
+    "Panel": "StandardCalculator",
+    "ButtonName": "9",
+    "Operator": "9"
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 2,
+    "Panel": "StandardCalculator",
+    "ButtonName": "*",
+    "Operator": "*"
+  },
+  {
+    "IndexX": 0,
+    "IndexY": 3,
+    "Panel": "StandardCalculator",
+    "ButtonName": "4",
+    "Operator": "4"
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 3,
+    "Panel": "StandardCalculator",
+    "ButtonName": "5",
+    "Operator": "5"
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 3,
+    "Panel": "StandardCalculator",
+    "ButtonName": "6",
+    "Operator": "6"
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 3,
+    "Panel": "StandardCalculator",
+    "ButtonName": "-",
+    "Operator": "-"
+  },
+  {
+    "IndexX": 0,
+    "IndexY": 4,
+    "Panel": "StandardCalculator",
+    "ButtonName": "1",
+    "Operator": "1"
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 4,
+    "Panel": "StandardCalculator",
+    "ButtonName": "2",
+    "Operator": "2"
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 4,
+    "Panel": "StandardCalculator",
+    "ButtonName": "3",
+    "Operator": "3"
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 4,
+    "Panel": "StandardCalculator",
+    "ButtonName": "+",
+    "Operator": "+"
+  },
+  {
+    "IndexX": 0,
+    "IndexY": 5,
+    "Panel": "StandardCalculator",
+    "ButtonName": "+/-",
+    "Operator": "neg"
+  },
+  {
+    "IndexX": 1,
+    "IndexY": 5,
+    "Panel": "StandardCalculator",
+    "ButtonName": "0",
+    "Operator": "0"
+  },
+  {
+    "IndexX": 2,
+    "IndexY": 5,
+    "Panel": "StandardCalculator",
+    "ButtonName": ".",
+    "Operator": "."
+  },
+  {
+    "IndexX": 3,
+    "IndexY": 5,
+    "Panel": "StandardCalculator",
+    "ButtonName": "=",
+    "Operator": null
+  }
+]

@@ -1,0 +1,97 @@
+﻿[
+  {
+    "Class": "MathLibrary.SineOperation",
+    "Precedence": 1,
+    "Symbol": "sin"
+  },
+  {
+    "Class": "MathLibrary.CosineOperation",
+    "Precedence": 1,
+    "Symbol": "cos"
+  },
+  {
+    "Class": "MathLibrary.TangentOperation",
+    "Precedence": 1,
+    "Symbol": "tan"
+  },
+  {
+    "Class": "MathLibrary.CotangentOperation",
+    "Precedence": 1,
+    "Symbol": "cot"
+  },
+  {
+    "Class": "MathLibrary.SecantOperation",
+    "Precedence": 1,
+    "Symbol": "sec"
+  },
+  {
+    "Class": "MathLibrary.CosecantOperation",
+    "Precedence": 1,
+    "Symbol": "cosec"
+  },
+  {
+    "Class": "MathLibrary.ReciprocalOperation",
+    "Precedence": 1,
+    "Symbol": "inv"
+  },
+  {
+    "Class": "MathLibrary.NegativeOperation",
+    "Precedence": 1,
+    "Symbol": "neg"
+  },
+  {
+    "Class": "MathLibrary.AbsoluteOperation",
+    "Precedence": 1,
+    "Symbol": "abs"
+  },
+  {
+    "Class": "MathLibrary.SquareRootOperation",
+    "Precedence": 1,
+    "Symbol": "root"
+  },
+  {
+    "Class": "MathLibrary.SquareOperation",
+    "Precedence": 1,
+    "Symbol": "sq"
+  },
+  {
+    "Class": "MathLibrary.NaturalLogOperation",
+    "Precedence": 1,
+    "Symbol": "ln"
+  },
+  {
+    "Class": "MathLibrary.LogOperation",
+    "Precedence": 2,
+    "Symbol": "log"
+  },
+  {
+    "Class": "MathLibrary.PowerOperation",
+    "Precedence": 3,
+    "Symbol": "^"
+  },
+  {
+    "Class": "MathLibrary.DivideOperation",
+    "Precedence": 4,
+    "Symbol": "/"
+  },
+  {
+    "Class": "MathLibrary.ModulusOperation",
+    "Precedence": 4,
+    "Symbol": "mod"
+  },
+  {
+    "Class": "MathLibrary.MultiplyOperation",
+    "Precedence": 4,
+    "Symbol": "*"
+  },
+  {
+    "Class": "MathLibrary.AddOperation",
+    "Precedence": 5,
+    "Symbol": "+"
+  },
+  {
+    "Class": "MathLibrary.SubtractOperation",
+    "Precedence": 5,
+    "Symbol": "-"
+  }
+]

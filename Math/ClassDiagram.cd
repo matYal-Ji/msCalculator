@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MathLibrary.UnaryOperation">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAgAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathLibrary.BinaryOperation">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAgAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathLibrary.ReciprocalOperation">
+    <Position X="27.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReciprocalOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.SquareOperation">
+    <Position X="18" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SquareOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.SquareRootOperation">
+    <Position X="20.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SquareRootOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.LogOperation">
+    <Position X="9.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.PowerOperation">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.ParseExpression" Collapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAM=</HashCode>
+      <FileName>ParseExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.AddOperation">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.SubtractOperation">
+    <Position X="7.25" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubtractOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.MultiplyOperation">
+    <Position X="12" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiplyOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.SineOperation">
+    <Position X="22.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SineOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.CosineOperation">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CosineOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.TangentOperation">
+    <Position X="25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TangentOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.ModulusOperation">
+    <Position X="14.25" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModulusOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.DivideOperation">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DivideOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Token" Collapsed="true">
+    <Position X="31.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.InvalidExpressionException">
+    <Position X="3.25" Y="13" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvalidExpressionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.MathLibraryException">
+    <Position X="7.25" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>MathLibraryException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.NumberOfOperandInOperationException">
+    <Position X="9.5" Y="13" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>NumberOfOperandInOperationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.UndefinedOperatorException">
+    <Position X="13.25" Y="13" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>UndefinedOperatorException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.NaturalLogOperation">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NaturalLogOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.CosecantOperation">
+    <Position X="6.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CosecantOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.CotangentOperation">
+    <Position X="11" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CotangentOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.SecantOperation">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecantOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.NegativeOperation">
+    <Position X="1.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NegativeOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.AbsoluteOperation">
+    <Position X="3.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbsoluteOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.MemoryOperation" Collapsed="true">
+    <Position X="31.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAIAAEECAAAAAAAAAAAAAAAAAQJAAAA=</HashCode>
+      <FileName>MemoryOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.InvalidMemoryOperationException">
+    <Position X="6.25" Y="13" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>InvalidMemoryOperationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.OutOfBoundMemoryIndex">
+    <Position X="0.5" Y="13" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>OutOfBoundMemoryIndex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathLibrary.Evaluator" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAEAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Evaluator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MathLibrary.IOperation" Collapsed="true">
+    <Position X="30" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOperation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MathLibrary.TokenType" Collapsed="true">
+    <Position X="30" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
